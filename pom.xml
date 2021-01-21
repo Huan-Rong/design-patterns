@@ -12,6 +12,7 @@
         <module>static-proxy-pattern</module>
         <module>hello-javassist</module>
         <module>hello-jdk-proxy</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
     <name>design-patterns</name>
