@@ -13,6 +13,7 @@
         <module>hello-javassist</module>
         <module>hello-jdk-proxy</module>
         <module>chain-of-responsibility</module>
+        <module>singleton</module>
     </modules>
 
     <name>design-patterns</name>
